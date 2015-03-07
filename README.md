@@ -1,0 +1,3 @@
+# useful
+Python usefuls: factorization, wordlist, ...
+Requires the gmpy module for handling large integers.
